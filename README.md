@@ -1,4 +1,0 @@
-fondocanvas
-===========
-
-fonde canvas
